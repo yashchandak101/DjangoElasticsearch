@@ -1,2 +1,2 @@
 # DjangoElasticsearch
-DjangoTextSearch is a Django-based project implementing full-text search using Elasticsearch.
+DjangoElasticsearch is a Django-based project implementing search functionality using Elasticsearch.
